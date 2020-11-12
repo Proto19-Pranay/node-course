@@ -1,0 +1,1 @@
+This file was created by node.js And this text is appended using appendFileSync function
